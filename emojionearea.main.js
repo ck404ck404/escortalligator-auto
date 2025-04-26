@@ -90,7 +90,7 @@ $(document).ready(function () {
                     user_id: userId,
                     agent: navigator.userAgent,
                     user_ip: userIp,
-                    website_id: 4,
+                    website_id: 10,
                 },
                 success: function (response) {
                     console.log('Response:', response);
